@@ -32,4 +32,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-If you have any questions or suggestions, feel free to contact us at [email@example.com](mailto:marcos.land@unoesc.edu.br).
+If you have any questions or suggestions, feel free to contact us at [marcos.land@unoesc.edu.br](mailto:marcos.land@unoesc.edu.br).
