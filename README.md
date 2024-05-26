@@ -19,12 +19,13 @@ To get started with the Compressor-in-C project, follow these steps:
 
 ## Contributing
 
-Contributions are welcome! If you'd like to contribute to the project, please follow these guidelines:
+Contributions are welcome! If you'd like to contribute to the project, please do the following:
 
-- Fork the repository
-- Create a new branch
-- Make your changes
-- Submit a pull request
+1. You can either leave some comments on what each function and file does using the '//' right beside the code you changed, or.. 
+2. You can open an issue with the title of the function/file you'd like to work on
+
+
+
 
 ## License
 
